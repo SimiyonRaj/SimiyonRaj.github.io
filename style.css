@@ -1650,3 +1650,12 @@ input:required {
   color: #fff;
   font-weight: 900;
 }
+.fa.active{
+  color: #fc6060
+}
+.team-content-area{
+  min-height: 365px; 
+}
+.team-content-area img{
+  border-radius: 0 !important;
+}
